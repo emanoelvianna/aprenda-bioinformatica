@@ -1,6 +1,6 @@
 # aprenda-ingles
 
-:school_satchel: :rocket: Este repositório tem como objetivo juntar informações pertinente para a área da bioinformática.
+:microscope: :computer: Este repositório tem como objetivo juntar informações pertinente para a área da bioinformática.
 
 ## Introdução
 
